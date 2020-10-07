@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:life_study/config/routes.dart';
+import 'package:life_study/life/life_screen.dart';
+
+import 'home_sreen.dart';
 void main() {
   runApp(MyApp());
 }
